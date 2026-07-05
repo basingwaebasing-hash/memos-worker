@@ -14,8 +14,8 @@ database_name = "NOTES_R2_BUCKET"
 
 [[kv_namespaces]]
 binding = "NOTES_KV"
-id = "notes-kv"
-preview_id = "49125772c08942ff939464227a01b8bd"
+id = "49125772c08942ff939464227a01b8bd"
+preview_id = ""
 
 [[r2_buckets]]
 binding = "NOTES_R2_BUCKET"
