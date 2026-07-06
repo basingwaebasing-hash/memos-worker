@@ -7,7 +7,7 @@
 ![1](./image/3.png)
 ![1](./image/4.png)
 
-**Memos Worker** is a powerful and high-performance serverless application for notes and knowledge management. Built entirely on the Cloudflare ecosystem (Workers, Pages, D1, R2, KV), it provides a private, cost-effective notes solution that you can own forever. 
+**Memos Worker** is a powerful and high-performance serverless application for notes and knowledge management. Built entirely on the Cloudflare ecosystem (Workers, Pages, D1, R2, KV), it provides a private, cost-effective notes solution that you can own forever.
 
 ## ✨ Features
 
